@@ -1,2 +1,3 @@
 # fbuilder
-Low-Code platform for building forms and business processes
+
+FWBuilder is a low-code platform for process management and workflow automation through forms.
